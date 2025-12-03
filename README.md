@@ -6,16 +6,16 @@
 
 ## 🌐 Connect with Me  
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINK" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+<a href="https://linkedin.com/in/naveen-s-44ns" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
 <a href="https://github.com/Naveen4421" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-<a href="mailto:yourmail@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+<a href="mailto:navi25231@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
 </p>
 
 ---
 
 ## 🔧 Tech Stack  
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,github,git,linux,aws,docker,kubernetes" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,github,linux,aws,docker,kubernetes" />
 </p>
 
 ---
