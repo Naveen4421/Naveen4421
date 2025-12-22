@@ -22,7 +22,7 @@
 
 ## 📌 Pinned Projects  
 ### 🔗 My Best Work
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naveen4421&repo=REPO_NAME&theme=dark)](https://github.com/Naveen4421/REPO_NAME)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Naveen4421&repo=NAveen4421&theme=dark)](https://github.com/Naveen4421/Naveen4421)
 
 ---
 
