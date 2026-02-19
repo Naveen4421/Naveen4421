@@ -24,7 +24,7 @@ I'm a **Full-Stack Developer** with a strong interest in **cloud-native architec
 - 🔭 Currently building **HireEngine AI** — an AI-powered mock interviewer
 - 🌱 Deepening expertise in **Docker**, **Kubernetes**, and **AWS**
 - ⚡ Passionate about **system design**, **scalability**, and **clean code**
-- 📫 Reach me at **navi25231@gmail.com**
+- 📫 Reach me at **naveen.siddappa44@gmail.com**
 
 ---
 
