@@ -9,41 +9,52 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Naveen4421&label=Profile+Views&color=F97316&style=flat" />
   <img src="https://img.shields.io/github/followers/Naveen4421?label=Followers&style=flat&color=F97316" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Open%20to-Full--Stack%20%7C%20DevOps%20Roles-brightgreen?style=flat" />
   <img src="https://img.shields.io/badge/Focus-Production%20Ready%20Systems-blue?style=flat" />
 </p>
 
 ---
 
-## ✨ About Me
-
-> *"I believe in learning by building — writing clean code, understanding system trade-offs, and continuously improving engineering fundamentals."*
-
-I'm a **Full-Stack Developer** with a strong interest in **cloud-native architectures**, **DevOps automation**, and **AI-driven products**. I enjoy designing systems that are reliable, scalable, and ready for real-world usage — beyond just demos.
-
-- 🔭 Currently building **HireEngine AI** — an AI-powered mock interviewer
-- 🌱 Deepening expertise in **Docker**, **Kubernetes**, and **AWS**
-- ⚡ Passionate about **system design**, **scalability**, and **clean code**
-- 📫 Reach me at **naveen.siddappa44@gmail.com**
+I build full-stack AI products and cloud-native systems — currently shipping **HireEngine AI**, an AI-powered mock interview platform with real-time behavioral analysis. I'm looking for full-stack or DevOps roles where I can build things that actually matter in production.
 
 ---
 
-## 🚀 Currently Building
+## 🤖 HireEngine AI — Featured Project
 
-<table>
-  <tr>
-    <td>🔧 <b>HireEngine AI</b></td>
-    <td>AI-powered virtual interviewer with real-time gaze tracking, behavioral analysis, and PDF performance reports</td>
-  </tr>
-  <tr>
-    <td>☁️ <b>Cloud-Native Apps</b></td>
-    <td>Production-grade deployments using Docker, Kubernetes, and AWS with full observability</td>
-  </tr>
-  <tr>
-    <td>⚙️ <b>DevOps Automation</b></td>
-    <td>CI/CD pipelines, auto-scaling systems, and deployment automation workflows</td>
-  </tr>
-</table>
+> AI-powered virtual interviewer for HR and Technical rounds
+
+[![HireEngine](https://github-readme-stats.vercel.app/api/pin/?username=Naveen4421&repo=hireengine-ai&theme=react&bg_color=0D1117&border_color=F97316)](https://github.com/Naveen4421/hireengine-ai)
+
+**What it does:**
+- Structured HR & Technical interview simulation with AI-generated questions
+- Real-time gaze tracking using MediaPipe FaceMesh to detect distraction
+- AI-driven scoring across Confidence, Relevance, and Clarity
+- Automated PDF performance report after each session
+- Secure auth with bcrypt + PostgreSQL backend
+
+> 🎥 **[Watch Demo](#)** &nbsp;|&nbsp; 🌐 **[Live App](#)** ← *(replace with your links)*
+
+---
+
+## ✨ About Me
+
+I'm a Full-Stack Developer with hands-on experience in cloud-native architecture, DevOps automation, and AI product development. I care about writing code that's clean, systems that are fault-tolerant, and shipping work that holds up beyond the demo.
+
+- 🌱 Currently deepening expertise in **Docker**, **Kubernetes**, and **AWS**
+- 📫 **naveen.siddappa44@gmail.com**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveen4421&show_icons=true&theme=react&bg_color=0D1117&border_color=F97316&icon_color=F97316&title_color=F97316" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen4421&theme=black-ice&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316&border=F97316" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen4421&layout=compact&theme=react&bg_color=0D1117&border_color=F97316&title_color=F97316"/>
+</p>
 
 ---
 
@@ -76,52 +87,11 @@ I'm a **Full-Stack Developer** with a strong interest in **cloud-native architec
 
 ---
 
-## 📌 Pinned Projects
-
-### 🤖 HireEngine AI
-> AI-powered virtual interviewer for HR and Technical rounds
-
-[![HireEngine](https://github-readme-stats.vercel.app/api/pin/?username=Naveen4421&repo=hireengine-ai&theme=react&bg_color=0D1117&border_color=F97316)](https://github.com/Naveen4421/hireengine-ai)
-
-**Key Features:**
-- 🎯 Structured HR & Technical interview simulation
-- 👁️ Real-time gaze tracking with MediaPipe FaceMesh
-- 📊 AI-driven performance evaluation (Confidence, Relevance, Clarity)
-- 📄 Automated PDF report generation
-- 🔐 Secure auth with bcrypt + PostgreSQL backend
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveen4421&show_icons=true&theme=react&bg_color=0D1117&border_color=F97316&icon_color=F97316&title_color=F97316" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen4421&theme=black-ice&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316&border=F97316" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen4421&layout=compact&theme=react&bg_color=0D1117&border_color=F97316&title_color=F97316"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen4421&theme=react-dark&bg_color=0D1117&color=F97316&line=F97316&point=FFFFFF&hide_border=false&border_color=F97316"/>
 </p>
-
----
-
-## 🧩 Engineering Principles I Care About
-
-```text
-✅ Writing clean, maintainable, and readable code
-✅ Designing scalable and fault-tolerant systems
-✅ Automating repetitive workflows
-✅ Understanding system design fundamentals
-✅ Continuous learning through real-world projects
-```
 
 ---
 
@@ -134,16 +104,12 @@ I'm a **Full-Stack Developer** with a strong interest in **cloud-native architec
   <a href="https://github.com/Naveen4421" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:navi25231@gmail.com" target="_blank">
+  <a href="mailto:naveen.siddappa44@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
-
-<p align="center">
-  <i>"The best way to predict the future is to build it."</i>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
