@@ -32,7 +32,7 @@ I build full-stack AI products and cloud-native systems — currently shipping *
 - Automated PDF performance report after each session
 - Secure auth with bcrypt + PostgreSQL backend
 
-> 🎥 **[Watch Demo](#)** &nbsp;|&nbsp; 🌐 **[Live App](#)** ← *(replace with your links)*
+> 🚧 *Currently in active development — deployment coming soon*
 
 ---
 
@@ -110,6 +110,10 @@ I'm a Full-Stack Developer with hands-on experience in cloud-native architecture
 </p>
 
 ---
+
+<p align="center">
+  <i>"The best way to predict the future is to build it."</i>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
