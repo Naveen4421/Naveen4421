@@ -96,7 +96,11 @@ Dracula-themed dark terminal setup — Zsh, Powerlevel10k, JetBrains Mono, tmux 
 </p>
 
 ### 💼 Open to
-Full-Stack Developer · SDE · DevOps Engineer roles — Bengaluru or remote.
+Full-Stack Developer · SDE · DevOps Engineer roles.
+
+<p align="center">
+  <i>"Premature optimization is the root of all evil."</i> — Donald Knuth
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
